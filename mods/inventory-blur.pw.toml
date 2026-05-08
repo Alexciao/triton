@@ -1,0 +1,13 @@
+name = "Inventory Blur"
+filename = "eg_inventory_blur-1.3.0+26.1.2-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lTS6nyFs/versions/OjsJ6mhb/eg_inventory_blur-1.3.0%2B26.1.2-fabric.jar"
+hash-format = "sha512"
+hash = "94a6c699127a89f1fcf3eb50bd0caec062c9821c759c9c6935fdf42c7fc0c91811b4b43b721e260229ed610c51dce7eb2fcabda12c6859d39c6ac617eb3e7e60"
+
+[update]
+[update.modrinth]
+mod-id = "lTS6nyFs"
+version = "OjsJ6mhb"

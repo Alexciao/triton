@@ -1,0 +1,4 @@
+key_modifiers_keybinding.toggle-hold: control
+key_modifiers_keybinding.open-gui: control
+key_modifiers_key.mute_microphone: control
+key_modifiers_key.voice_chat: control

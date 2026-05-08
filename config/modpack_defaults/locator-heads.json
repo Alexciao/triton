@@ -1,0 +1,18 @@
+{
+  "enableMod": true,
+  "renderHeads": true,
+  "alwaysShowXP": true,
+  "showCompass": false,
+  "compassColor": 16777215,
+  "compassShadow": true,
+  "useCoordinatesNotation": false,
+  "enableTeamBorder": false,
+  "teamBorderThickness": "NORMAL",
+  "borderStyle": "TEAM_COLOR",
+  "staticBorderColor": 16777215,
+  "headSizeMultiplier": 5,
+  "showPlayerNames": "OFF",
+  "playerFilterMode": "ALL",
+  "includedPlayers": "",
+  "excludedPlayers": ""
+}

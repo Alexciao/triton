@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:oxidized_copper_bulb"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:copper_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
