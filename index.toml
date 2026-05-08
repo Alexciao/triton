@@ -5,124 +5,224 @@ file = "config/BBEConfig.json"
 hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
-file = "config/modpack_defaults/BetterHandBobbing.json"
+file = "config/modpack_defaults/config/BetterHandBobbing.json"
 hash = "84a539619d027606870fee7e6276d3d52b2b4a526d3eede283086aaeac4e9a07"
 
 [[files]]
-file = "config/modpack_defaults/NoChatReports/NCR-Client.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
 hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
 
 [[files]]
-file = "config/modpack_defaults/NoChatReports/NCR-Common.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
-file = "config/modpack_defaults/NoChatReports/NCR-ServerPreferences.json"
+file = "config/modpack_defaults/config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
-file = "config/modpack_defaults/NoChatReports/README.md"
+file = "config/modpack_defaults/config/NoChatReports/README.md"
 hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
-file = "config/modpack_defaults/appleskin.json5"
+file = "config/modpack_defaults/config/appleskin.json5"
 hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
-file = "config/modpack_defaults/auto-clicker-fabric.json"
+file = "config/modpack_defaults/config/auto-clicker-fabric.json"
 hash = "92d74b820512cb024f9ba2723e8e10bef476661ce8348b022aa33729508bab5c"
 
 [[files]]
-file = "config/modpack_defaults/bettergrass.json"
+file = "config/modpack_defaults/config/bettergrass.json"
 hash = "62f287d4e9c8d9e04e89f28990067251731dfa0d011d9de5591bc6b9728c9901"
 
 [[files]]
-file = "config/modpack_defaults/cape-provider/config.json"
+file = "config/modpack_defaults/config/cape-provider/config.json"
 hash = "8f9addb14efe5d0d594450beb74d2e7756c255fe959d91dfb45aa2c8ce3653bd"
 
 [[files]]
-file = "config/modpack_defaults/chunky/config.json"
+file = "config/modpack_defaults/config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
-file = "config/modpack_defaults/detailarmorbar.json"
+file = "config/modpack_defaults/config/detailarmorbar.json"
 hash = "3b0b3d33924c6382bd9b7deb186e096af8b7dc33285b37ffc8c34f10b255bfad"
 
 [[files]]
-file = "config/modpack_defaults/flashback/flashback.json"
+file = "config/modpack_defaults/config/flashback/flashback.json"
 hash = "d34fc0fafff153ac622889aeee67c19aa4f24c93d2e729f557a6fca329bbf958"
 
 [[files]]
-file = "config/modpack_defaults/flashback/imgui.ini"
+file = "config/modpack_defaults/config/flashback/imgui.ini"
 hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
-file = "config/modpack_defaults/jei/blacklist.json"
+file = "config/modpack_defaults/config/jei/blacklist.json"
 hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
 [[files]]
-file = "config/modpack_defaults/jei/ingredient-list-mod-sort-order.ini"
+file = "config/modpack_defaults/config/jei/ingredient-list-mod-sort-order.ini"
 hash = "859930e5e77f33badddd34c5ad6d220330e6e997793eabe12280fff73d604228"
 
 [[files]]
-file = "config/modpack_defaults/jei/ingredient-list-type-sort-order.ini"
+file = "config/modpack_defaults/config/jei/ingredient-list-type-sort-order.ini"
 hash = "e54b255795bd69b43381941cc163c07fdb8abaa0a3b7358cfff99994a655adf3"
 
 [[files]]
-file = "config/modpack_defaults/jei/jei-client.ini"
+file = "config/modpack_defaults/config/jei/jei-client.ini"
 hash = "bb814432101612a0cc910fb0a0c4c13e379dfe8a86cbdd3a362c23fe1b708d0f"
 
 [[files]]
-file = "config/modpack_defaults/jei/jei-colors.ini"
+file = "config/modpack_defaults/config/jei/jei-colors.ini"
 hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
 
 [[files]]
-file = "config/modpack_defaults/jei/jei-debug.ini"
+file = "config/modpack_defaults/config/jei/jei-debug.ini"
 hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
 
 [[files]]
-file = "config/modpack_defaults/jei/jei-mod-id-format.ini"
+file = "config/modpack_defaults/config/jei/jei-mod-id-format.ini"
 hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
 
 [[files]]
-file = "config/modpack_defaults/jei/recipe-category-sort-order.ini"
+file = "config/modpack_defaults/config/jei/recipe-category-sort-order.ini"
 hash = "e30d8c122d82cf46778db680dbfac1bb32837fb2d71b4c3527b208cd9eadc3ab"
 
 [[files]]
-file = "config/modpack_defaults/jei/world/local/New_World/lookupHistory.json"
+file = "config/modpack_defaults/config/jei/world/local/New_World/lookupHistory.json"
 hash = "a9c84f7cbf0b3924e6a355ce629c61b9a1f8dcb0f596896f84999d2adadff94b"
 
 [[files]]
-file = "config/modpack_defaults/litematica/litematica_New World.json"
+file = "config/modpack_defaults/config/litematica/litematica_New World.json"
 hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 
 [[files]]
-file = "config/modpack_defaults/litematica/litematica_New World_dim_minecraft_overworld.json"
+file = "config/modpack_defaults/config/litematica/litematica_New World_dim_minecraft_overworld.json"
 hash = "adcadb841e38244e0121845e5c11366cb7fca48d1e6518db75eb8369eb9cc582"
 
 [[files]]
-file = "config/modpack_defaults/locator-heads.json"
+file = "config/modpack_defaults/config/locator-heads.json"
 hash = "3e9773a741031f3746f79a638e767e188455e719c806602636414b6038872597"
 
 [[files]]
-file = "config/modpack_defaults/malilib.json"
+file = "config/modpack_defaults/config/malilib.json"
 hash = "988338dafcc461d72902ef1ca9d62452886ec9069458b9e8a32244c985993315"
 
 [[files]]
-file = "config/modpack_defaults/minihud.json"
+file = "config/modpack_defaults/config/minihud.json"
 hash = "a1a951b45ee7d013dca87c04f5952d71e287160d8e0997463e2054e6de5b2fbb"
 
 [[files]]
-file = "config/modpack_defaults/minihud/New World.json"
+file = "config/modpack_defaults/config/minihud/New World.json"
 hash = "feb578942461490b19061bc68d652209e4f660fabf6721ed67f01a0640d3ddf7"
 
 [[files]]
-file = "config/modpack_defaults/minihud/New World_dim_minecraft_overworld.json"
+file = "config/modpack_defaults/config/minihud/New World_dim_minecraft_overworld.json"
 hash = "f08f5b6aa63a460761a62c8f5a959fc4488dcd016f18b9cf8541b55817f6d481"
 
 [[files]]
-file = "config/modpack_defaults/modmenu.json"
+file = "config/modpack_defaults/config/modmenu.json"
 hash = "ad8040ac3156dafd8b436fc035438ff1a07bcfed24d02a2dbe901158525592f9"
+
+[[files]]
+file = "config/modpack_defaults/config/peek/peek.properties"
+hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/category-volumes.properties"
+hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/player-volumes.properties"
+hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/translations.properties"
+hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/username-cache.json"
+hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/voicechat-client.properties"
+hash = "c08a28b53b3bdcd94b7f2e106ce51b86e317e01b9e2720996f911b87134789f2"
+
+[[files]]
+file = "config/modpack_defaults/config/voicechat/voicechat-server.properties"
+hash = "32b7fef7172accd335c03ba98c7115616f16e9a09b6b3c845d9536a83339feba"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/client.cfg"
+hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/common.cfg"
+hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/profiles/default.cfg"
+hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/lib/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/client.cfg"
+hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/common.cfg"
+hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/default_radar_categories_client.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/default_radar_categories_server.json"
+hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
+hash = "e32532c25d8b1553246f3c905b8b38ba064bc0c280393cdbd40bfa3d619b447f"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "2f1f762bcc5575488d1346c0b676eb4e5fe2a7185f6ec8c5b7d00461647b21aa"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/minimap/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/client.cfg"
+hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/common.cfg"
+hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/profiles/default.cfg"
+hash = "13ba74ebcadb76fd47fd3e99ea62c7fb13938ce764861ba33280568f990fabfb"
+
+[[files]]
+file = "config/modpack_defaults/config/xaero/world-map/server_profiles/default.cfg"
+hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
+
+[[files]]
+file = "config/modpack_defaults/config/xaerohud.txt"
+hash = "872d1f014eae5280493d1a1d57fdca9595665c4e3e494fda73340edf3c17f613"
+
+[[files]]
+file = "config/modpack_defaults/config/zoomify.json"
+hash = "536b47361a7630806b205cf28e0370abc9707b6d1a3e14444d9326135ed759e0"
 
 [[files]]
 file = "config/modpack_defaults/options.amecs.key_modifiers.txt"
@@ -133,108 +233,12 @@ file = "config/modpack_defaults/options.txt"
 hash = "4b4302b1052a5951dbf0c8e42e1a109e9fc30b4d83ca38cd2a33e84cd427c31f"
 
 [[files]]
-file = "config/modpack_defaults/peek/peek.properties"
-hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/category-volumes.properties"
-hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/player-volumes.properties"
-hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/translations.properties"
-hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/username-cache.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/voicechat-client.properties"
-hash = "c08a28b53b3bdcd94b7f2e106ce51b86e317e01b9e2720996f911b87134789f2"
-
-[[files]]
-file = "config/modpack_defaults/voicechat/voicechat-server.properties"
-hash = "32b7fef7172accd335c03ba98c7115616f16e9a09b6b3c845d9536a83339feba"
-
-[[files]]
-file = "config/modpack_defaults/xaero/lib/client.cfg"
-hash = "43ed9dbfa5b4d6f0f3d2e8c2ced17ad298164b22c68ff11d415257a39b074336"
-
-[[files]]
-file = "config/modpack_defaults/xaero/lib/common.cfg"
-hash = "98f698d96a6d21d830a455b4ad045b70516fa63c298021742d8499e7f0366cd2"
-
-[[files]]
-file = "config/modpack_defaults/xaero/lib/profiles/default.cfg"
-hash = "34ae854b17d896d7cb853bdc28c27231a3947e91cb9f0991f372846ee3c2a907"
-
-[[files]]
-file = "config/modpack_defaults/xaero/lib/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/client.cfg"
-hash = "c0915eff5d1a7905cd1038d646eb9086fd1a29e2f637d53535e4da161de17b9f"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/common.cfg"
-hash = "2b49df024c03a369c62a303c72755e7fedeb4f4653ff53a12fd37bd83ccd4ed0"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/default_radar_categories_client.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/default_radar_categories_server.json"
-hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/profiles/default.cfg"
-hash = "e32532c25d8b1553246f3c905b8b38ba064bc0c280393cdbd40bfa3d619b447f"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/profiles/info_display_config/default.cfg.txt"
-hash = "2f1f762bcc5575488d1346c0b676eb4e5fe2a7185f6ec8c5b7d00461647b21aa"
-
-[[files]]
-file = "config/modpack_defaults/xaero/minimap/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/modpack_defaults/xaero/world-map/client.cfg"
-hash = "deece0fe0d29f2203a9699143a6209c451e91d7ecb799489c328b0d0fa31a90d"
-
-[[files]]
-file = "config/modpack_defaults/xaero/world-map/common.cfg"
-hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
-
-[[files]]
-file = "config/modpack_defaults/xaero/world-map/profiles/default.cfg"
-hash = "13ba74ebcadb76fd47fd3e99ea62c7fb13938ce764861ba33280568f990fabfb"
-
-[[files]]
-file = "config/modpack_defaults/xaero/world-map/server_profiles/default.cfg"
-hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
-
-[[files]]
-file = "config/modpack_defaults/xaerohud.txt"
-hash = "872d1f014eae5280493d1a1d57fdca9595665c4e3e494fda73340edf3c17f613"
-
-[[files]]
-file = "config/modpack_defaults/zoomify.json"
-hash = "536b47361a7630806b205cf28e0370abc9707b6d1a3e14444d9326135ed759e0"
-
-[[files]]
 file = "config/moreculling.toml"
 hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
+
+[[files]]
+file = "config/options.txt"
+hash = "4b4302b1052a5951dbf0c8e42e1a109e9fc30b4d83ca38cd2a33e84cd427c31f"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
