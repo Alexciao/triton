@@ -297,6 +297,11 @@ hash = "a8ce02eed00f3aed3f53466a4b24cc1ec2ebafa23a85545f0788751a0a5a2b08"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "d9c6327d012eea113016270c89b54a70901f6df90925f207b5342bba68a882ef"
+metafile = true
+
+[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "b4cfd65678e2d07489b41aefc2e126baad29deb4b7e093cbb2116b3c45caa60d"
 metafile = true
@@ -387,6 +392,11 @@ hash = "088bbf96fae96afc1e7fdca9b6f8dca98b3ae190a84be749de210454696d7835"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "a561a2c8f13cb7b54cf98f77711eb75dd69aea82a42f5be3554cdf8fce74636c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
@@ -404,6 +414,11 @@ metafile = true
 [[files]]
 file = "mods/freecam.pw.toml"
 hash = "3e40e81fe7e935bae49682c6c1361b4c52aad1cec537faa9fb32dc25a961c6eb"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "0fc4796995bd2729378091695c22ec1f028aad8b2c06bcf1279037ac35e10c1c"
 metafile = true
 
 [[files]]
@@ -462,11 +477,6 @@ hash = "87d7bee397574cc90e04ea4ddf2949fb25a478e148e2c1e33e8d251a2a976e33"
 metafile = true
 
 [[files]]
-file = "mods/make_bubbles_pop.pw.toml"
-hash = "6a4432a5241721089f821d00dcf0530f5738dbf0f4e32bb60b23472257326684"
-metafile = true
-
-[[files]]
 file = "mods/malilib.pw.toml"
 hash = "fefc1195c8b89e2ae15dced184d0188279e0a34e95885532b77eda89d63f59ad"
 metafile = true
@@ -502,6 +512,11 @@ hash = "3db1b61528d0fdd908f1fe57685bbc49cdbe496bfe0e349a0280334444193c73"
 metafile = true
 
 [[files]]
+file = "mods/no-double-sneak.pw.toml"
+hash = "80f22eb4a868d2c8a8b8a13b479c49854685a49b8a55cfcff64660ab65616fb5"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f08b0c3a68c46e7fc24f7d080d87376471ec6766c8226097e2a3419ff1556885"
 metafile = true
@@ -514,6 +529,11 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "bdb0ddbd9b62fd550ab9242f555803f39ebd34ccb38a63c6279e898a720e4cea"
+metafile = true
+
+[[files]]
+file = "mods/particle-tweaks.pw.toml"
+hash = "4c185c9183493aab6bb6732a976c0047987935a941676c8def998d9a5e8b8895"
 metafile = true
 
 [[files]]
@@ -534,6 +554,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "a73c17487f0b8a1f234b56f5cc61b28ce9413a9ce90859dd18ee2dbd03300a3a"
+metafile = true
+
+[[files]]
+file = "mods/quick-pack.pw.toml"
+hash = "07adbf0de8f0e7d677b814ad8c770e5fd738719c15dd80f57bec4d6353d96709"
 metafile = true
 
 [[files]]
@@ -569,6 +594,11 @@ metafile = true
 [[files]]
 file = "mods/skyboxify.pw.toml"
 hash = "20257162650c1b71e2967f6bfb92c28f32e810d666837fdcf9240474559f8d96"
+metafile = true
+
+[[files]]
+file = "mods/slumber.pw.toml"
+hash = "0f457cb2b50b000b7db892311a43330ebb8ab55679ba61d1867e4afd7c0abbdd"
 metafile = true
 
 [[files]]
