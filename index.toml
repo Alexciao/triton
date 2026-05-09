@@ -237,10 +237,6 @@ file = "config/moreculling.toml"
 hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
 
 [[files]]
-file = "config/options.txt"
-hash = "4b4302b1052a5951dbf0c8e42e1a109e9fc30b4d83ca38cd2a33e84cd427c31f"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "8c8f44ed74ea93a496ac1d476ab71b59b0b15a780d5ab60e5559ef637105ee6d"
 metafile = true
