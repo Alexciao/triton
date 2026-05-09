@@ -101,6 +101,10 @@ file = "config/modpack_defaults/config/jei/world/local/New_World/lookupHistory.j
 hash = "a9c84f7cbf0b3924e6a355ce629c61b9a1f8dcb0f596896f84999d2adadff94b"
 
 [[files]]
+file = "config/modpack_defaults/config/litematica.json"
+hash = "4f54effaf881a401a2fdd2d8c85e4ae2d994932a15cf024f8eaa191c54b71b16"
+
+[[files]]
 file = "config/modpack_defaults/config/litematica/litematica_New World.json"
 hash = "12174fd2e7b7105aa4aa98a486df7baa470fd770ff30a731cf314c4fd571701a"
 
