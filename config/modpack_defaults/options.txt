@@ -5,6 +5,7 @@ entityDistanceScaling:0.75
 entityShadows:false
 graphicsPreset:"custom"
 prioritizeChunkUpdates:0
+enableVsync:false
 textureFiltering:0
 mipmapLevels:2
 renderClouds:"fast"
@@ -28,7 +29,7 @@ incompatibleResourcePacks:[]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 fullscreen:true
-maxFps:0
+maxFps:260
 narrator:0
 tutorialStep:none
 onboardAccessibility:false
