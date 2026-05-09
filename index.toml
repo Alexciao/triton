@@ -141,6 +141,14 @@ file = "config/modpack_defaults/config/resourcify.json"
 hash = "699a64572901f273474d98cc3b796f374f933b56ac07732b140b40ca8cd5db20"
 
 [[files]]
+file = "config/modpack_defaults/config/smoothscroll.json"
+hash = "efa2507ea0c96cb2a55b298cf07d6e7cef5850bd4acea5b981e5b2c06e5cbb4b"
+
+[[files]]
+file = "config/modpack_defaults/config/smoothswapping.json"
+hash = "f0d95cca4e260bb1b06b4cd6149cbdb4028bc1110afcf2472a30982fdf26ad66"
+
+[[files]]
 file = "config/modpack_defaults/config/voicechat/category-volumes.properties"
 hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 
