@@ -149,6 +149,10 @@ file = "config/modpack_defaults/config/smoothswapping.json"
 hash = "f0d95cca4e260bb1b06b4cd6149cbdb4028bc1110afcf2472a30982fdf26ad66"
 
 [[files]]
+file = "config/modpack_defaults/config/tweakeroo.json"
+hash = "8e5d63866fd633d11b64f64333f0976cb83dc448d6e45f6aec674aec7dc5d8fa"
+
+[[files]]
 file = "config/modpack_defaults/config/voicechat/category-volumes.properties"
 hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
 
