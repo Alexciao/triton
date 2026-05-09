@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/calcmod.pw.toml"
-hash = "d9c6327d012eea113016270c89b54a70901f6df90925f207b5342bba68a882ef"
+hash = "08aa0e50a5680bba51bb0afaee68f40b3377ef54eabd73d591f3f215538a2dda"
 metafile = true
 
 [[files]]
@@ -474,6 +474,11 @@ metafile = true
 [[files]]
 file = "mods/locator-heads.pw.toml"
 hash = "87d7bee397574cc90e04ea4ddf2949fb25a478e148e2c1e33e8d251a2a976e33"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "cb9944ec0e1d2db8f0ac8d61f619e28357c6021c952b5e5cd0d23cbf123d66ad"
 metafile = true
 
 [[files]]

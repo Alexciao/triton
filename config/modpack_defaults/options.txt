@@ -32,6 +32,7 @@ fullscreen:true
 maxFps:0
 narrator:0
 tutorialStep:none
+onboardAccessibility:false
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown

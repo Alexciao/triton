@@ -1,0 +1,23 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [
+      {
+        "text": "Triton 1.0.0",
+        "click_event": {
+          "action": "open_url",
+          "url": "https://modrinth.com/modpack/tritonpack"
+        },
+        "hover_event": { "action": "show_text", "value": "View on Modrinth" }
+      }
+    ]
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": []
+  }
+}
