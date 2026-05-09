@@ -198,11 +198,11 @@ hash = "a4c652cafa7dea324e5f5cf3b1df46a84e54b6d4f877195857bce55a559c1cfd"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/minimap/profiles/default.cfg"
-hash = "e32532c25d8b1553246f3c905b8b38ba064bc0c280393cdbd40bfa3d619b447f"
+hash = "12b27e02c2c29b3f21dad3059f24d5c08988b3d38a7a04eb7a7b00e627079170"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/minimap/profiles/entity_radar_categories/default.cfg.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+hash = "a4c13e76500473fe8d555225022542d0ef89708c3d885e233dca15f91e437774"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
@@ -222,7 +222,7 @@ hash = "0c229eb0daf85bd09af51f21eeeb99497a3bd50a825d5ab1ca695fb21bf6cf9d"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/world-map/profiles/default.cfg"
-hash = "13ba74ebcadb76fd47fd3e99ea62c7fb13938ce764861ba33280568f990fabfb"
+hash = "1246a99076f03838829640a24a8894ae649420fdbc04337dd468c8248aa75e49"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/world-map/server_profiles/default.cfg"
