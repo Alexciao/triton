@@ -10,7 +10,7 @@ hash = "84a539619d027606870fee7e6276d3d52b2b4a526d3eede283086aaeac4e9a07"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Client.json"
-hash = "edfe78d985fe67dce28104f3d87673e94c89134144451c291ecedcd2e2c3b480"
+hash = "c00aaa2a7ab2ab2e5db8d8200116d1588b4d1e31682e26d1c663efb3ff55f247"
 
 [[files]]
 file = "config/modpack_defaults/config/NoChatReports/NCR-Common.json"
@@ -30,7 +30,7 @@ hash = "65edc28ca2bf6bd3e3684ae545fb74bcc0ec935a40d6ac60cb68c00c152e34fb"
 
 [[files]]
 file = "config/modpack_defaults/config/auto-clicker-fabric.json"
-hash = "92d74b820512cb024f9ba2723e8e10bef476661ce8348b022aa33729508bab5c"
+hash = "46f209122773ddb13e52318c72f8121bc2ecea396cccb4adb9b7ae4b85909241"
 
 [[files]]
 file = "config/modpack_defaults/config/bettergrass.json"
@@ -55,6 +55,10 @@ hash = "d34fc0fafff153ac622889aeee67c19aa4f24c93d2e729f557a6fca329bbf958"
 [[files]]
 file = "config/modpack_defaults/config/flashback/imgui.ini"
 hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
+
+[[files]]
+file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
+hash = "e5f0d817730d23e86cc2c83d55a5b22f48ebbc45c8b2c1924f64181e3a545442"
 
 [[files]]
 file = "config/modpack_defaults/config/jei/blacklist.json"
@@ -127,6 +131,10 @@ hash = "ad8040ac3156dafd8b436fc035438ff1a07bcfed24d02a2dbe901158525592f9"
 [[files]]
 file = "config/modpack_defaults/config/peek/peek.properties"
 hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
+
+[[files]]
+file = "config/modpack_defaults/config/resourcify.json"
+hash = "699a64572901f273474d98cc3b796f374f933b56ac07732b140b40ca8cd5db20"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/category-volumes.properties"
@@ -230,7 +238,7 @@ hash = "ae94ff012903d8101d8cf349981c813b407e4da9c5c6ade9b3662cec4b577594"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "2024f39719d222a2e3190c5bbbdd45a1071feb622feaf0222b43062ff0b93c24"
+hash = "e5fdd57b863988e5044f2ab04ae1f8884c96e19b8618b44a716c5cee9155e1d9"
 
 [[files]]
 file = "config/moreculling.toml"

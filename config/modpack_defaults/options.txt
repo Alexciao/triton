@@ -14,7 +14,6 @@ simulationDistance:10
 weatherRadius:5
 advancedItemTooltips:true
 darkMojangStudiosBackground:true
-guiScale:3
 joinedFirstServer:true
 particles:0
 gamma:1
