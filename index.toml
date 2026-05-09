@@ -238,7 +238,7 @@ hash = "ae94ff012903d8101d8cf349981c813b407e4da9c5c6ade9b3662cec4b577594"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "e5fdd57b863988e5044f2ab04ae1f8884c96e19b8618b44a716c5cee9155e1d9"
+hash = "5df58c5939f1eaeef8eb309811324b01797fcb950aada864be871e08b12d3017"
 
 [[files]]
 file = "config/moreculling.toml"
