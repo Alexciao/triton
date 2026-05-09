@@ -24,10 +24,13 @@ vignette:false
 onboardAccessibility:true
 operatorItemsTab:true
 soundCategory_music:0.0
-resourcePacks:["vanilla","file/Default-Dark-Mode-26.1-2026.4.0","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","file/Mod Menu Helper.zip","continuity:glass_pane_culling_fix","continuity:default"]
+resourcePacks:["vanilla","black_icons","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Default-Dark-Mode-26.1-2026.4.0.zip"]
 incompatibleResourcePacks:[]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
+fullscreen:true
+maxFps:0
+narrator:0
 tutorialStep:none
 key_zoomify.key.zoom:key.keyboard.c
 key_zoomify.key.zoom.secondary:key.keyboard.unknown

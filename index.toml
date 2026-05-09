@@ -230,7 +230,7 @@ hash = "ae94ff012903d8101d8cf349981c813b407e4da9c5c6ade9b3662cec4b577594"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "4b4302b1052a5951dbf0c8e42e1a109e9fc30b4d83ca38cd2a33e84cd427c31f"
+hash = "2024f39719d222a2e3190c5bbbdd45a1071feb622feaf0222b43062ff0b93c24"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -253,7 +253,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "c8af456eca8937d460efd4fc72934ff0f0d2d042ab73880258f63bda4104e16f"
+hash = "13c5651c74702ddf2984ca47af76f8b6c0a9cc3e7316b970f1822188a9d8299d"
 metafile = true
 
 [[files]]
@@ -323,7 +323,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "448f56f00955f708d4d15ce3a9d94753516646bb2314fcad8c95e80b826eea2c"
+hash = "6868ff98071493d02294c37e7ed6b07830f52733a67aff3164c2f6f5217da73c"
 metafile = true
 
 [[files]]
