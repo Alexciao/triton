@@ -5,6 +5,10 @@ file = "config/BBEConfig.json"
 hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "4d9ce0bdcaf13c19b7ca09f7ea2d8f87b907168a7e5ae4224675d830318fd1b3"
+
+[[files]]
 file = "config/modpack_defaults/config/BetterHandBobbing.json"
 hash = "84a539619d027606870fee7e6276d3d52b2b4a526d3eede283086aaeac4e9a07"
 
@@ -58,7 +62,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "e5f0d817730d23e86cc2c83d55a5b22f48ebbc45c8b2c1924f64181e3a545442"
+hash = "4d9ce0bdcaf13c19b7ca09f7ea2d8f87b907168a7e5ae4224675d830318fd1b3"
 
 [[files]]
 file = "config/modpack_defaults/config/jei/blacklist.json"
