@@ -1,13 +1,13 @@
 name = "Slumber"
-filename = "slumber-1.3.3.jar"
+filename = "slumber-1.3.4.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/ksm6XRZ9/versions/vBvFYEo9/slumber-1.3.3.jar"
+url = "https://cdn.modrinth.com/data/ksm6XRZ9/versions/U5nk6J6v/slumber-1.3.4.jar"
 hash-format = "sha512"
-hash = "f4b8aab5cac477b7c19900134b3b5244e066a651eefc08089e075a23479f464c7b5207f46d7c8bba02adba14ff0f7b89d991d6497bad272d94e7694ca14be2a2"
+hash = "af122c1c1a815c85fe894a19b9df69adc4a8fa59d365956d3cc54425a0407b853f8e020e87c7bf5248e5c7767d344d6bfc30e7ea9976756de417b7f4a842364f"
 
 [update]
 [update.modrinth]
 mod-id = "ksm6XRZ9"
-version = "vBvFYEo9"
+version = "U5nk6J6v"

@@ -6,7 +6,7 @@ hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4d9ce0bdcaf13c19b7ca09f7ea2d8f87b907168a7e5ae4224675d830318fd1b3"
+hash = "5929874c92cf09a4530b73bdb5d3ef94fc96972445887b300c25e07e640fa97b"
 
 [[files]]
 file = "config/modpack_defaults/config/BetterHandBobbing.json"
@@ -62,7 +62,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "4d9ce0bdcaf13c19b7ca09f7ea2d8f87b907168a7e5ae4224675d830318fd1b3"
+hash = "5929874c92cf09a4530b73bdb5d3ef94fc96972445887b300c25e07e640fa97b"
 
 [[files]]
 file = "config/modpack_defaults/config/jei/blacklist.json"
@@ -631,7 +631,7 @@ metafile = true
 
 [[files]]
 file = "mods/slumber.pw.toml"
-hash = "0f457cb2b50b000b7db892311a43330ebb8ab55679ba61d1867e4afd7c0abbdd"
+hash = "429da2b222a87fa463d5bc194ee076da6c439fc751188f1b801ad08d827a361b"
 metafile = true
 
 [[files]]
