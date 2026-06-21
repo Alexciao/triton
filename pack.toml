@@ -1,12 +1,12 @@
 name = "Triton"
 author = "Alexciao"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d02db1835b6d5ea42585cc9060ab3f5049f58484f1077bd99dbdf3c9ec848faf"
+hash = "e628b5dc1fef2c16751e83abea1075585a9c4554c95df0541b8fdf855769e0b6"
 
 [versions]
 fabric = "0.19.2"

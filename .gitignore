@@ -1,2 +1,5 @@
 /builds
 *.mrpack
+.venv/
+__pycache__/
+*.pyc
