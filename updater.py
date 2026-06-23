@@ -23,6 +23,7 @@ import argparse
 import json
 import os
 import re
+import shutil
 import subprocess
 import sys
 import time
@@ -47,7 +48,7 @@ REPORT_FILE = "compat-report.md"
 
 
 def info(msg: str):
-    print(f"[INFO] {msg}")
+    print(f"[ i ] {msg}")
 
 
 def ok(msg: str):
@@ -562,6 +563,46 @@ def suggest_version_bump(current: str, mc_version_changed: bool) -> str:
 
 
 # ---------------------------------------------------------------------------
+# Subfolder / isolation
+# ---------------------------------------------------------------------------
+
+
+def copy_modpack_to_subfolder(subfolder_name: str) -> Path:
+    """
+    Copy the entire modpack directory into a subfolder and change into it.
+    Excludes common build artifacts and the subfolder itself (if it already
+    exists from a previous run). Returns the path to the new subfolder.
+    """
+    src = Path.cwd().resolve()
+    dst = src / subfolder_name
+
+    if dst.exists():
+        fail(f"Target subfolder '{subfolder_name}' already exists.")
+        sys.exit(1)
+
+    info(f"Copying modpack to subfolder '{subfolder_name}'...")
+
+    # Patterns / directories to exclude from the copy
+    def _ignore(src_dir, names):
+        ignored = set()
+        for name in names:
+            full = Path(src_dir) / name
+            # Skip the subfolder we're about to create, build dirs, cache, etc.
+            if full == dst:
+                ignored.add(name)
+            elif full.is_dir() and name in ("build", "__pycache__", ".git", ".github"):
+                ignored.add(name)
+            elif name.endswith(".mrpack"):
+                ignored.add(name)
+        return ignored
+
+    shutil.copytree(src, dst, ignore=_ignore, symlinks=False)
+    os.chdir(dst)
+    ok(f"Now working in: {dst}")
+    return dst
+
+
+# ---------------------------------------------------------------------------
 # Main logic
 # ---------------------------------------------------------------------------
 
@@ -663,6 +704,19 @@ Examples:
         help="Keep the report file even when proceeding with update",
     )
 
+    # Subfolder / isolation
+    parser.add_argument(
+        "--subfolder",
+        "-s",
+        action="store_true",
+        help="Copy the modpack into a subfolder (named <target-version>-<new-version>) before making changes",
+    )
+    parser.add_argument(
+        "--subfolder-name",
+        help="Custom name for the subfolder when using --subfolder (default: auto-generated from target version + new modpack version)",
+        default=None,
+    )
+
     args = parser.parse_args()
 
     target_version = args.target_version
@@ -747,7 +801,13 @@ Examples:
     for i, entry in enumerate(all_entries, 1):
         mod_id = entry["mod_id"]
         display = entry["name"]
-        print(f"  [{i:>3}/{len(all_entries)}] {display:40s} ...", end=" ", flush=True)
+        num_spaces_name = max(len(e["name"]) for e in all_entries)
+        num_spaces_indx = len(str(len(all_entries)))
+        print(
+            f"  [{i:>{num_spaces_indx}}/{len(all_entries)}] {display} {'.' * (num_spaces_name - len(display))}",
+            end=" ",
+            flush=True,
+        )
 
         supports, compat_ver, compat_ver_id, latest_ver = check_mod_compat(
             mod_id, target_version, loader_name
