@@ -166,7 +166,7 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/voicechat-client.properties"
-hash = "408c5fa022d6e47e08ff085612f57bb18324744d6e97dac2275bcdcefba68c71"
+hash = "7b0c4b2877c18d6bf19f72b236151d9202ead6f3267322fc66ab47d2ac36c1d2"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/voicechat-server.properties"
