@@ -395,6 +395,11 @@ hash = "fe17d2b9b63e19e1818f55d9d376aaec0c42c9fd9812d9a2f6d1c4160abd161b"
 metafile = true
 
 [[files]]
+file = "mods/eclipseui.pw.toml"
+hash = "33e329d962644c9083f1a4472075cc3ce3599bc27f337dcdb17e90c6b6cdf3c0"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "65d9fc6d087bfabafea0dce32e6d37d6d355f9c194beed94e8771cb2dfae7e1f"
 metafile = true
