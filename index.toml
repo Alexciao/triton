@@ -106,7 +106,7 @@ hash = "ad8040ac3156dafd8b436fc035438ff1a07bcfed24d02a2dbe901158525592f9"
 
 [[files]]
 file = "config/modpack_defaults/config/peek/peek.properties"
-hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
+hash = "bedb645022aa4fd353f820bf8ca713525a9e3f1add25f512e0ac215ef467aa40"
 
 [[files]]
 file = "config/modpack_defaults/config/resourcify.json"
@@ -130,11 +130,11 @@ hash = "52bca607bb119724a20e1ff70f05a21b3111dd29848978af4b0536c3fd2bcf0a"
 
 [[files]]
 file = "config/modpack_defaults/config/roughlyenoughitems/pinyin.properties"
-hash = "fda83be12ec4f3e443938711602ab6711a8d6a9d807708737e3fa31d8bc31145"
+hash = "f5aed0f666e2fe6c356fc665c09146a55d6ee9875b484ae066be5e2084368dfa"
 
 [[files]]
 file = "config/modpack_defaults/config/roughlyenoughitems/pinyin_double.properties"
-hash = "b33fb32d1ceee296c566f9c9faf9354054a0fa8b05e64098a2265446582da0fd"
+hash = "676a6ac7c812776687c1d177ab0f98bdad1a41b7de6e2f965439cf9f5dd2e134"
 
 [[files]]
 file = "config/modpack_defaults/config/smoothscroll.json"
@@ -150,15 +150,15 @@ hash = "8e5d63866fd633d11b64f64333f0976cb83dc448d6e45f6aec674aec7dc5d8fa"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/category-volumes.properties"
-hash = "94c1c4f70e5b995fbd71e86d4fa646030437fecae0685875b560a55fbd0d0e56"
+hash = "3747c48bcb3a60834f88f056ee9b3a025153b11f6ca88652b4bddebb77cea009"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/player-volumes.properties"
-hash = "0332261861a5ace96f503e85b0d48a8df74ea6c2f3545cd229543a6afb55ad96"
+hash = "cd385ca1eeda4df612631e2713cc6d503793157ef8bd5518d736429e6c1ae474"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/translations.properties"
-hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
+hash = "b258a94a5ed60fbf93b66c452c3d6e36b044f630741f90e5b13852a4805b235e"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/username-cache.json"
@@ -166,11 +166,11 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/voicechat-client.properties"
-hash = "c08a28b53b3bdcd94b7f2e106ce51b86e317e01b9e2720996f911b87134789f2"
+hash = "408c5fa022d6e47e08ff085612f57bb18324744d6e97dac2275bcdcefba68c71"
 
 [[files]]
 file = "config/modpack_defaults/config/voicechat/voicechat-server.properties"
-hash = "32b7fef7172accd335c03ba98c7115616f16e9a09b6b3c845d9536a83339feba"
+hash = "885853788b19a9804d7a30a8734bdb5485603714f6487b0c7ae7d17142f66cb0"
 
 [[files]]
 file = "config/modpack_defaults/config/xaero/lib/client.cfg"
@@ -238,7 +238,7 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 
 [[files]]
 file = "config/modpack_defaults/config/xaerohud.txt"
-hash = "872d1f014eae5280493d1a1d57fdca9595665c4e3e494fda73340edf3c17f613"
+hash = "2c75d09fdf076daeb186c90bb65ccfbb747050870de6ab9f7aeb784dfa317b7a"
 
 [[files]]
 file = "config/modpack_defaults/config/zoomify.json"
