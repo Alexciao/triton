@@ -290,6 +290,11 @@ hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1c5dbdc5e213127ae20ea2e878d8a9b8e052279df69834d41f19f3f076d2ed9f"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "46fd6a224f70a21be9f86485835f44360ad2f085003218b653e7946e9ecf9af8"
 metafile = true
@@ -495,11 +500,6 @@ hash = "e555df163ef996b6ed757f8c9b1c43c48aa436951c7c6ddec85c23e0eb68b0a0"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "883795159470f666d4fa0985f4443fac583a5cc6edac7f73166ee9836453daf2"
-metafile = true
-
-[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "9e80adfe7d8650beb84ed1b7fd25c801810994ad35e451683b6735985cd1bfca"
 metafile = true
@@ -637,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "ef279e00d43ecde362c64176cbbe77c8ce4ef5f36b4343c1efa5942b3af33c45"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "be2716e6d7d8936e79a06a7a8ec1e85e2fa1f966a9bd1bef224914a3765b884d"
 metafile = true
 
 [[files]]
