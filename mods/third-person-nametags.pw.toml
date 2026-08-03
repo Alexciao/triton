@@ -1,0 +1,13 @@
+name = "Third Person Nametags"
+filename = "thirdpersonnametags-mc26.2-1.7.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZS0HNETF/versions/Z88CVDZk/thirdpersonnametags-mc26.2-1.7.3.jar"
+hash-format = "sha512"
+hash = "a5b635bb808f3a0ad090722da436441b1c086036d8f5fe6edb8886c732b8779682540d3c287786787023f1580c8ffd9503d59c64444d3c6540e2af5f8228d3e7"
+
+[update]
+[update.modrinth]
+mod-id = "ZS0HNETF"
+version = "Z88CVDZk"

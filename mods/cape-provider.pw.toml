@@ -1,13 +1,13 @@
 name = "Cape Provider"
-filename = "cape-provider-5.4.0.jar"
+filename = "cape-provider-5.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/orXAsira/versions/2Sq1sgWH/cape-provider-5.4.0.jar"
+url = "https://cdn.modrinth.com/data/orXAsira/versions/molTCsgf/cape-provider-5.5.0.jar"
 hash-format = "sha512"
-hash = "68d57aadd2982a1848610b3d59e2808ea14ab37364dea5e65df2bd8d1a9b42dc32f2693de180004d4678c2725c19e153f9b73d53d8052dd76505e7627cb120df"
+hash = "6642599a83e3238515677d1546df55b75e2cd09ab21dbc36bb7b3e73eb0af49e61e3de32c7a8648200cb04557f1886350b1a4a62d56eabaac2ec302fda72a5e0"
 
 [update]
 [update.modrinth]
 mod-id = "orXAsira"
-version = "2Sq1sgWH"
+version = "molTCsgf"
