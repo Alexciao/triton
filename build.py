@@ -1,7 +1,6 @@
 import subprocess
 import toml
 import json
-import tempfile
 import os
 
 pack_file = "pack.toml"
