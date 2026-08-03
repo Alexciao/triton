@@ -1,0 +1,13 @@
+name = "Reconnect"
+filename = "reconnect-fabric-1.1.1+26.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/B1rMmsA0/versions/Cd1M8Z6v/reconnect-fabric-1.1.1%2B26.2.jar"
+hash-format = "sha512"
+hash = "fb92737870389a3a72a2dad31220ac0e250e8751b1efa3020d098c1b2883ae663826ff1ca2f4a635273ce0af9306fc4153a5e63cc75beebc3945283dea7438b4"
+
+[update]
+[update.modrinth]
+mod-id = "B1rMmsA0"
+version = "Cd1M8Z6v"

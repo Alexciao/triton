@@ -24,11 +24,12 @@ vignette:false
 onboardAccessibility:true
 operatorItemsTab:true
 soundCategory_music:0.0
-resourcePacks:["vanilla","black_icons","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Default-Dark-Mode-26.1-2026.4.0.zip"]
+resourcePacks:["vanilla","black_icons","file/SodiumTranslations.zip","file/Chat Reporting Helper.zip","continuity:glass_pane_culling_fix","continuity:default","file/Default-Dark-Mode-26.2-2026.6.0.zip"]
 incompatibleResourcePacks:[]
 skipMultiplayerWarning:true
 telemetryOptInExtra:false
 fullscreen:true
+exclusiveFullscreen:true
 maxFps:260
 narrator:0
 tutorialStep:none

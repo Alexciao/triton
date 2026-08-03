@@ -49,6 +49,10 @@ file = "config/modpack_defaults/config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
+file = "config/modpack_defaults/config/cwb.json"
+hash = "f9457cf32f223543bb72321357ad4ea9ff3ba82131e8f1a0ad9abdc3b5d89a66"
+
+[[files]]
 file = "config/modpack_defaults/config/detailarmorbar.json"
 hash = "3b0b3d33924c6382bd9b7deb186e096af8b7dc33285b37ffc8c34f10b255bfad"
 
@@ -63,42 +67,6 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
 hash = "85089f4d45a755e199a13d003b3980c12a736e1461cd841e38e3e0beb162f92d"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/blacklist.json"
-hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/ingredient-list-mod-sort-order.ini"
-hash = "859930e5e77f33badddd34c5ad6d220330e6e997793eabe12280fff73d604228"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/ingredient-list-type-sort-order.ini"
-hash = "e54b255795bd69b43381941cc163c07fdb8abaa0a3b7358cfff99994a655adf3"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/jei-client.ini"
-hash = "bb814432101612a0cc910fb0a0c4c13e379dfe8a86cbdd3a362c23fe1b708d0f"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/jei-colors.ini"
-hash = "755f199a3868224bdccb2a8ffd8f1a4eb2d96140757f444ba31f8d677a66034f"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/jei-debug.ini"
-hash = "960b16c7af6d62bbe7b58fb52216a8a15771bddecbeefab49a8614b7ca86dcbd"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/jei-mod-id-format.ini"
-hash = "6a91c09d1cabc1980d90ab102a03ec58c0551213ab16a459b599d768b334d054"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/recipe-category-sort-order.ini"
-hash = "e30d8c122d82cf46778db680dbfac1bb32837fb2d71b4c3527b208cd9eadc3ab"
-
-[[files]]
-file = "config/modpack_defaults/config/jei/world/local/New_World/lookupHistory.json"
-hash = "a9c84f7cbf0b3924e6a355ce629c61b9a1f8dcb0f596896f84999d2adadff94b"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -143,6 +111,30 @@ hash = "59742cd9cc067a7f42b9a402096569a8d33029a0e304ead3b31f2a5975b5bd7d"
 [[files]]
 file = "config/modpack_defaults/config/resourcify.json"
 hash = "699a64572901f273474d98cc3b796f374f933b56ac07732b140b40ca8cd5db20"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/config.json5"
+hash = "eec365941d7d94cba9c96f6488d7653ab854c9778188d458ab7790bffa0f2cbb"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/hints.json"
+hash = "52bca607bb119724a20e1ff70f05a21b3111dd29848978af4b0536c3fd2bcf0a"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/pinyin.properties"
+hash = "fda83be12ec4f3e443938711602ab6711a8d6a9d807708737e3fa31d8bc31145"
+
+[[files]]
+file = "config/modpack_defaults/config/roughlyenoughitems/pinyin_double.properties"
+hash = "b33fb32d1ceee296c566f9c9faf9354054a0fa8b05e64098a2265446582da0fd"
 
 [[files]]
 file = "config/modpack_defaults/config/smoothscroll.json"
@@ -258,7 +250,7 @@ hash = "ae94ff012903d8101d8cf349981c813b407e4da9c5c6ade9b3662cec4b577594"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "5df58c5939f1eaeef8eb309811324b01797fcb950aada864be871e08b12d3017"
+hash = "344178b5cc957ce3623bf18bc082b2aac4060fd054f074c6c1e10c6868c4afd1"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -595,6 +587,11 @@ hash = "0d21cfc05d3eaee705f131e9f8f8a742bb8928916cce378f2e7e7c9e8be7962d"
 metafile = true
 
 [[files]]
+file = "mods/one-click-join.pw.toml"
+hash = "aaccbb1a01adc1562cfffb7063745b755b933f8423eebcb4085842fed97776b4"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "b962f94227f63b7330ec6de16b637aed463cbff0dd58c88dca5ba4180f6e71d1"
 metafile = true
@@ -637,6 +634,11 @@ metafile = true
 [[files]]
 file = "mods/raised.pw.toml"
 hash = "ef279e00d43ecde362c64176cbbe77c8ce4ef5f36b4343c1efa5942b3af33c45"
+metafile = true
+
+[[files]]
+file = "mods/reconnect-mod.pw.toml"
+hash = "85ca0fca25730f3e90ac2995949cc5844769ebd9293193ca972e94f80bd32792"
 metafile = true
 
 [[files]]
