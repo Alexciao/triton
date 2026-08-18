@@ -6,7 +6,7 @@ hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9ae83eb0201c20e4a7178288e82581747b469432f2fae728202651e686a50111"
+hash = "dae8872fed022105df3c8ab91b6c2d2d203ec25468eee69512689c7ebc9ee833"
 
 [[files]]
 file = "config/modpack_defaults/config/BetterHandBobbing.json"
@@ -66,7 +66,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "9ae83eb0201c20e4a7178288e82581747b469432f2fae728202651e686a50111"
+hash = "dae8872fed022105df3c8ab91b6c2d2d203ec25468eee69512689c7ebc9ee833"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -135,6 +135,10 @@ hash = "f5aed0f666e2fe6c356fc665c09146a55d6ee9875b484ae066be5e2084368dfa"
 [[files]]
 file = "config/modpack_defaults/config/roughlyenoughitems/pinyin_double.properties"
 hash = "676a6ac7c812776687c1d177ab0f98bdad1a41b7de6e2f965439cf9f5dd2e134"
+
+[[files]]
+file = "config/modpack_defaults/config/simple-modpack-update-checker.json"
+hash = "8c77ae40166dbb7ce868042f5d9bc20229302f7509f6d1c2eaa04f036976a463"
 
 [[files]]
 file = "config/modpack_defaults/config/smoothscroll.json"
@@ -255,6 +259,10 @@ hash = "344178b5cc957ce3623bf18bc082b2aac4060fd054f074c6c1e10c6868c4afd1"
 [[files]]
 file = "config/moreculling.toml"
 hash = "0aa6fc5bdb5d4276425b4885c3878403fa47cc5ed84a62a12ca7b93d873b64d6"
+
+[[files]]
+file = "config/simple-modpack-update-checker.json"
+hash = "8c77ae40166dbb7ce868042f5d9bc20229302f7509f6d1c2eaa04f036976a463"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -694,6 +702,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "750c36eda8614eee8517b9f3872e490da51da850752afe1ecc3860d3e6d56347"
+metafile = true
+
+[[files]]
+file = "mods/smuc.pw.toml"
+hash = "abedbc4d78c2d826313eb4fc4d8dd94de06bebc7438441a291eae694d480cfd4"
 metafile = true
 
 [[files]]
