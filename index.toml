@@ -6,7 +6,7 @@ hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "85089f4d45a755e199a13d003b3980c12a736e1461cd841e38e3e0beb162f92d"
+hash = "9ae83eb0201c20e4a7178288e82581747b469432f2fae728202651e686a50111"
 
 [[files]]
 file = "config/modpack_defaults/config/BetterHandBobbing.json"
@@ -66,7 +66,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "85089f4d45a755e199a13d003b3980c12a736e1461cd841e38e3e0beb162f92d"
+hash = "9ae83eb0201c20e4a7178288e82581747b469432f2fae728202651e686a50111"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
@@ -299,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "be94f4eee46fe7ef840dae32e1a749db33adf0a8bf9c34f0b5d922f7c4a8d00a"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "9248f40b1b9cb051834cf85a1623a2ad54cd584cb3fe5dfafdbff682ef2fd0d9"
 metafile = true
 
 [[files]]
