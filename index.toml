@@ -6,7 +6,7 @@ hash = "b51a1ef12766d4212151411cfd84ec88e7caaf8ae34d0011d013ff3043dfe009"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dae8872fed022105df3c8ab91b6c2d2d203ec25468eee69512689c7ebc9ee833"
+hash = "146699fe13e1b7aa6b028b00acff483a7388e5f0f38b312729d8691035f8fd71"
 
 [[files]]
 file = "config/modpack_defaults/config/BetterHandBobbing.json"
@@ -66,7 +66,7 @@ hash = "f78b8334bf9399cb6942bcb7c69b4638ac34d18bcea90df8f005760f3e2b5d47"
 
 [[files]]
 file = "config/modpack_defaults/config/isxander-main-menu-credits.json"
-hash = "dae8872fed022105df3c8ab91b6c2d2d203ec25468eee69512689c7ebc9ee833"
+hash = "146699fe13e1b7aa6b028b00acff483a7388e5f0f38b312729d8691035f8fd71"
 
 [[files]]
 file = "config/modpack_defaults/config/litematica.json"
