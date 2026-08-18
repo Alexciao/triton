@@ -40,7 +40,9 @@ def update_credits(tellraw: dict, credits_file: str):
         credits = json.load(f)
 
     credits["main_menu"]["bottom_left"] = [tellraw]
+    credits["main_menu"]["bottom_right"] = []
     credits["pause_menu"]["bottom_right"] = [tellraw]
+    credits["pause_menu"]["bottom_left"] = []
 
     with open(credits_file, "w") as f:
         json.dump(credits, f, indent=None)
