@@ -1,0 +1,13 @@
+name = "Continue Button Continued"
+filename = "continue-button-continued-fabric-1.1.0+26.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5vc2iR8T/versions/I2v44frO/continue-button-continued-fabric-1.1.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "a533871200abde7e50440e34099cf12a67c92179e92ed45779e4139031adb8db5ea870f535b428cad46ca96b80454047ed9eadae0144ca2984b758e64f140eb9"
+
+[update]
+[update.modrinth]
+mod-id = "5vc2iR8T"
+version = "I2v44frO"

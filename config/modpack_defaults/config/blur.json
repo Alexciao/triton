@@ -1,0 +1,33 @@
+{
+  "configVersion": 3,
+  "blurContainers": true,
+  "blurBooks": true,
+  "blurSigns": true,
+  "blurCommandBlocks": true,
+  "blurDeathScreen": false,
+  "blurTitleScreen": false,
+  "darkenTitleScreen": false,
+  "reduceInGameBlur": false,
+  "showScreenID": false,
+  "forceEnabledScreens": [
+    "dev.emi.emi.screen.RecipeScreen",
+    "mezz.jei.gui.recipes.RecipesGui",
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen",
+    "net.minecraft.client.gui.screens.inventory.JigsawBlockEditScreen",
+    "net.minecraft.client.gui.screens.inventory.StructureBlockEditScreen",
+    "net.minecraft.client.gui.screens.inventory.TestBlockEditScreen",
+    "net.minecraft.client.gui.screens.inventory.TestInstanceBlockEditScreen"
+  ],
+  "forceDisabledScreens": [],
+  "useGradient": true,
+  "gradientStart": "#000000",
+  "gradientStartAlpha": 64,
+  "gradientEnd": "#000000",
+  "gradientEndAlpha": 64,
+  "gradientRotation": 0,
+  "rainbowMode": false,
+  "fadeTimeMillis": 1,
+  "fadeOutTimeMillis": 1,
+  "blurAnimationCurve": "FLAT",
+  "backgroundAnimationCurve": "FLAT"
+}

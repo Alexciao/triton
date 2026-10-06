@@ -1,13 +1,13 @@
 name = "Particle Tweaks"
-filename = "ParticleTweaks-3.0.2-mc26.2.jar"
+filename = "ParticleTweaks-3.1-mc26.3-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/yNazxplV/ParticleTweaks-3.0.2-mc26.2.jar"
+url = "https://cdn.modrinth.com/data/IlGAhsOM/versions/nBul9loZ/ParticleTweaks-3.1-mc26.3-fabric.jar"
 hash-format = "sha512"
-hash = "e700a8c205551bfd3645a0037ff4525e8745924409ce7d274a696fc9fbfffe6b2bfe56b022f67b36b92506fdae902cd2ee9d45195ac979b5698fba73a33dde1f"
+hash = "98b0a0e92337ea936f185126b12768a10fc683d66dfc41ae5c1aeac31fe82445b569af6dc8ceaa444955e8caa57a18c99bc5e254af78717aa7d5cd958d4af155"
 
 [update]
 [update.modrinth]
 mod-id = "IlGAhsOM"
-version = "yNazxplV"
+version = "nBul9loZ"

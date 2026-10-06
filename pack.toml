@@ -1,16 +1,16 @@
 name = "Triton"
 author = "Alexciao"
-version = "1.2.0"
+version = "1.3.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "da5eb62bc7a085e2f5e1aa85edf8ee4030328e7edbc8107e65991ae4a9c8b0a4"
+hash = "eb1ad5bfeab31d32ea103a75fd18235d973db6fb8234d497abb182d5c28053c7"
 
 [versions]
-fabric = "0.19.3"
-minecraft = "26.2"
+fabric = "0.19.5"
+minecraft = "26.3"
 
 [options]
-acceptable-game-versions = ["26.2"]
+acceptable-game-versions = ["26.3"]
