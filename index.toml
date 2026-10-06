@@ -53,10 +53,6 @@ file = "config/modpack_defaults/config/chunky/config.json"
 hash = "c7384a22595488f79f3125b22cc175eb729267267807a084479419349797abc8"
 
 [[files]]
-file = "config/modpack_defaults/config/cwb.json"
-hash = "f9457cf32f223543bb72321357ad4ea9ff3ba82131e8f1a0ad9abdc3b5d89a66"
-
-[[files]]
 file = "config/modpack_defaults/config/detailarmorbar.json"
 hash = "3b0b3d33924c6382bd9b7deb186e096af8b7dc33285b37ffc8c34f10b255bfad"
 
@@ -705,7 +701,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "95b014c29351598261257614a55955215bba353a93593b2050cb07da295d3302"
+hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
 metafile = true
 
 [[files]]
